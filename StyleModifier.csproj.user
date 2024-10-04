@@ -1,0 +1,6 @@
+<Project>
+    <PropertyGroup>
+        <ULTRAKILLPath>D:\Program Files (x86)\Steam\steamapps\common\ULTRAKILL</ULTRAKILLPath>
+        <BepInExPath>C:\Users\Lapt\AppData\Roaming\r2modmanPlus-local\ULTRAKILL\profiles\Default\BepInEx</BepInExPath>
+    </PropertyGroup>
+</Project>
